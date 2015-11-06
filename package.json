@@ -1,7 +1,7 @@
 {
   "name": "boolean-filter-obj",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Filter an object, preserving only truthy values",
   "license": "MIT",
   "repository": "bendrucker/boolean-filter-obj",
