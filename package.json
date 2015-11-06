@@ -1,0 +1,36 @@
+{
+  "name": "boolean-filter-obj",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Filter an object, preserving only truthy values",
+  "license": "MIT",
+  "repository": "bendrucker/boolean-filter-obj",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "object",
+    "filter",
+    "iterate",
+    "values",
+    "truthy",
+    "boolean"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "argument-index": "~1.0.0",
+    "filter-obj": "~1.1.0"
+  }
+}
