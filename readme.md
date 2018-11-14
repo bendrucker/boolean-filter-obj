@@ -1,4 +1,4 @@
-# boolean-filter-obj [![Build Status](https://travis-ci.org/bendrucker/boolean-filter-obj.svg?branch=master)](https://travis-ci.org/bendrucker/boolean-filter-obj)
+# boolean-filter-obj [![Build Status](https://travis-ci.org/bendrucker/boolean-filter-obj.svg?branch=master)](https://travis-ci.org/bendrucker/boolean-filter-obj) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/boolean-filter-obj.svg)](https://greenkeeper.io/)
 
 > Filter an object, preserving only truthy values
 
