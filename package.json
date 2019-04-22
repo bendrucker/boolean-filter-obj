@@ -31,6 +31,9 @@
   "dependencies": {
     "ap": "~0.2.0",
     "argument-index": "~1.0.0",
-    "filter-obj": "~1.1.0"
+    "filter-obj": "~2.0.0"
+  },
+  "engines": {
+    "node": ">= 8"
   }
 }
